@@ -1,5 +1,7 @@
 Aim : introduction to python 
+
 Apparatus : Google colab
+
 THEORY: 
 In this lecture we learn how to use the print statement ,finding the type of  data with the use of type command and then add ,subtract,multiply,divide two numbers .
 use input command,use import math library, use if and else for find the greater number.
